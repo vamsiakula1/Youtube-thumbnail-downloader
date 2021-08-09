@@ -1,1 +1,1 @@
-# Youtube-thumbnail-downloader
+# youtube-thumbnail-downloader
